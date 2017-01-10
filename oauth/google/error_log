@@ -1,0 +1,90 @@
+[19-Oct-2016 11:44:31 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/x0DE01p-ljXDG...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(56): Google_Client->authenticate('4/x0DE01p-ljXDG...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[19-Oct-2016 11:45:07 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/DaBGkjytB5Rfc...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(56): Google_Client->authenticate('4/DaBGkjytB5Rfc...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[19-Oct-2016 11:46:04 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/DaBGkjytB5Rfc...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(56): Google_Client->authenticate('4/DaBGkjytB5Rfc...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[19-Oct-2016 16:00:51 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/r2VrcrqwAWBTb...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(56): Google_Client->authenticate('4/r2VrcrqwAWBTb...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[19-Oct-2016 16:07:14 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/rgEZR6XoNhQqy...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(79): Google_Client->authenticate('4/rgEZR6XoNhQqy...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[26-Oct-2016 20:38:08 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'unauthorized_client'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/sVFAYUF6w400y...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(79): Google_Client->authenticate('4/sVFAYUF6w400y...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[26-Oct-2016 20:38:10 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'unauthorized_client'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/AiHsvFR8E2tI_...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(79): Google_Client->authenticate('4/AiHsvFR8E2tI_...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[26-Oct-2016 20:38:12 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'unauthorized_client'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/eRdr394MwqPBC...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(79): Google_Client->authenticate('4/eRdr394MwqPBC...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[07-Nov-2016 16:06:55 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/sLFLoJiGmCUmq...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(82): Google_Client->authenticate('4/sLFLoJiGmCUmq...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[09-Nov-2016 11:03:41 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'redirect_uri_mismatch'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/1eXaaSmVBddHI...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(82): Google_Client->authenticate('4/1eXaaSmVBddHI...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[09-Nov-2016 11:03:58 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'redirect_uri_mismatch'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/rwgpikN6_96Jv...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(82): Google_Client->authenticate('4/rwgpikN6_96Jv...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[09-Nov-2016 11:04:26 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'redirect_uri_mismatch'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/SVkTXy4r5-gHj...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(82): Google_Client->authenticate('4/SVkTXy4r5-gHj...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[09-Nov-2016 11:05:43 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'redirect_uri_mismatch'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/XQU7XZ19oLxBy...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(82): Google_Client->authenticate('4/XQU7XZ19oLxBy...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[01-Dec-2016 11:12:30 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/L0DrTs2yOS6YR...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(82): Google_Client->authenticate('4/L0DrTs2yOS6YR...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125
+[14-Dec-2016 13:03:20 America/New_York] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/rZmfq69Ailqp2...', false)
+#1 /home/lmmecom/public_html/1nfinity/oauth/google/index.php(82): Google_Client->authenticate('4/rZmfq69Ailqp2...')
+#2 {main}
+  thrown in /home/lmmecom/public_html/1nfinity/oauth/gplus-lib/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 125

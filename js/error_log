@@ -1,0 +1,12 @@
+[30-Oct-2016 21:03:01 America/New_York] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lmmecom/public_html/1nfinity/js/index.php on line 5
+[30-Oct-2016 21:04:05 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lmmecom/public_html/1nfinity/js/index.php on line 6
+[30-Oct-2016 21:04:07 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lmmecom/public_html/1nfinity/js/index.php on line 6
+[30-Oct-2016 21:04:30 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/lmmecom/public_html/1nfinity/js/index.php on line 7
+[30-Oct-2016 21:04:31 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/lmmecom/public_html/1nfinity/js/index.php on line 7
+[30-Oct-2016 21:04:33 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/lmmecom/public_html/1nfinity/js/index.php on line 7
+[30-Oct-2016 21:04:58 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTime, null given in /home/lmmecom/public_html/1nfinity/js/index.php on line 6
+[30-Oct-2016 21:07:04 America/New_York] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/lmmecom/public_html/1nfinity/js/index.php on line 7
+[30-Oct-2016 21:07:05 America/New_York] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/lmmecom/public_html/1nfinity/js/index.php on line 7
+[30-Oct-2016 21:07:10 America/New_York] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/lmmecom/public_html/1nfinity/js/index.php on line 7
+[30-Oct-2016 21:30:30 America/New_York] PHP Fatal error:  Call to undefined function addDayswithdate() in /home/lmmecom/public_html/1nfinity/js/index.php on line 22
+[30-Oct-2016 21:30:38 America/New_York] PHP Fatal error:  Call to undefined function addDayswithdate() in /home/lmmecom/public_html/1nfinity/js/index.php on line 22

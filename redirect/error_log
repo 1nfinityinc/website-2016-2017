@@ -1,0 +1,9 @@
+[13-Nov-2015 12:03:05 America/New_York] PHP Parse error:  syntax error, unexpected '$list_items' (T_VARIABLE) in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 10
+[15-Nov-2015 10:03:32 America/New_York] PHP Parse error:  syntax error, unexpected '$list_items' (T_VARIABLE) in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 10
+[15-Nov-2015 10:06:20 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 70
+[15-Nov-2015 10:06:34 America/New_York] PHP Parse error:  syntax error, unexpected '$loop' (T_VARIABLE) in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 106
+[15-Nov-2015 10:07:05 America/New_York] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 129
+[15-Nov-2015 10:07:08 America/New_York] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 129
+[15-Nov-2015 10:07:14 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 141
+[15-Nov-2015 10:07:35 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 146
+[15-Nov-2015 10:07:36 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/lmmecom/public_html/1nfinity/redirect/index.php on line 146
